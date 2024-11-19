@@ -1,10 +1,4 @@
 # Digit-Classifier
-
-
-Here’s an updated version of your README file based on your feedback:
-
-markdown
-Copy code
 # SVM and Logistic Regression with PyTorch
 
 ## Overview
